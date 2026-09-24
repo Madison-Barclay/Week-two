@@ -9,3 +9,4 @@ Working on copy of notebook
  -   12   # 2. Iterate through the results (if you passed a directory, this loops through all images)
 
 NameError: name 'pipeline' is not defined
+- unable to run block 4 properly and unable to run block 5 
