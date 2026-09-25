@@ -5,3 +5,5 @@ Where does this garbage accumulate? How bold are people on their placement of th
 When I am on campus: Walk along the frequently walked paths - take pictures of spots that contain signatures, and any other spots that come up in and around those areas.
 
 Can I elicit help from other friends from outside of class? Everyone has a different frequently used path, and I am not on campus a lot. I can tell them what I am looking for and have them send me pictures when I am not on campus myself. Team work makes the dream work? 
+
+Started to work on my Kobotoolbox, need to expand more in the options of what I constitute to be a signature. 
