@@ -10,3 +10,7 @@ Working on copy of notebook
 
 NameError: name 'pipeline' is not defined
 - unable to run block 4 properly and unable to run block 5 
+
+Notes To Self 
+Don't forget to finish populating Kobo questionnaire.
+look into what it means to intentionally drop garbage or unintentionally.
