@@ -4,4 +4,6 @@ Lots of discussion on contemporary archaeology, thinking about my PDAP and wanti
 Still feeling slightly unsure about the paddle activity, I find coding stressful and I know it will take me a bit longer to figure this out. 
 
 Reading: "what gets counted counts"
-  - critique on gender binaries when asked to create an account online 
+  - critique on gender binaries when asked to create an account online
+  - what about non-binary people? making them choose between male and female can be a difficult task.
+  - binary creates a lack of data- black and white thinking 
