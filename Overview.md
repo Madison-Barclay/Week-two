@@ -9,3 +9,4 @@ Reading: "what gets counted counts"
   - binary creates a lack of data- black and white thinking
   - Counting and classification can be powerful parts of the process of creating knowledge. But they’re also tools of power in themselves. Historically, counting and classification have been used to dominate, discipline, and exclude
   - An intersectional feminist approach to counting insists that we examine and, if necessary, rethink the assumptions and beliefs behind our classification infrastructure, as well as consistently probe who is doing the counting and whose interests are served
+  - Counting and measuring do not always have to be tools of oppression. We can also use them to hold power accountable, to reclaim overlooked histories, and to build collectivity and solidarity. When we count within our own communities, with consideration and care, we can work to rebalance unequal distributions of power.
